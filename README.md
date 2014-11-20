@@ -31,6 +31,7 @@ backup some interesting article
 <h2>图形库</h2>
 <ol>
     <li><a href="http://iioengine.com/docs/iio-basics" target="_blank">iiO canvas API</a></li>
+    <li><a href="http://ncase.me/sight-and-light/" target="_blank">Canvas光影特效</a></li>
 </ol>
 <h2>智能家居</h2>
 <ul>
