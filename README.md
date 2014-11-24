@@ -37,3 +37,7 @@ backup some interesting article
 <ul>
     <li><a href="http://www.threadgroup.org/" target="_blank">Thread协议</a></li>
 </ul>
+<h2>我所用技术</h2>
+<ul>
+    <li><a href="http://www.html5rocks.com/zh/tutorials/appcache/beginner/" target="_blank"> HTML5Rocks LocalStorage入门 </a></li>
+</ul>
